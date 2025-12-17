@@ -1,0 +1,74 @@
+.hero {
+    height: 200vh;
+    width: 100vw;
+    background-image: url('../../../../public/backgrounds/hero.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-y: scroll;
+
+}
+
+.slides {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    /* flex-direction:column; */
+}
+
+.heroCenter {
+    /* background-color: #111; */
+    height: 100%;
+    display: grid;
+    align-items: start;
+    justify-content: center;
+
+}
+
+.taglineWrapper {
+    width: 100%;
+    display: grid;
+    justify-items: center;
+}
+
+.tagline {
+    text-align: center;
+    font-size: 3vw;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    color: #1c1c1c;
+    line-height: 1.1;
+    margin-bottom: 30px;
+    /* font-family: "Uncial Antiqua", system-ui;
+  font-weight: 400; */
+
+}
+
+.subline {
+    text-align: center;
+    /* font-size: 3vw; */
+    color: #1c1c1c;
+    margin-left: 18px;
+    margin-right: 18px;
+    /* line-height: 1.1; */
+    /* font-family: "Uncial Antiqua", system-ui;
+  font-weight: 400; */
+
+}
+.taglineWrapper .logo{
+  mix-blend-mode: darken;
+}
+.textureWrapper {
+    mix-blend-mode: darken;
+    width: 100%;
+    background-image: url('/public/monumentTexture/t6.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    aspect-ratio: 1/1;
+    /* position: relative; */
+    /* opacity: 0; */
+    /* top: -10%; */
+  /* top: 20vh; */
+}

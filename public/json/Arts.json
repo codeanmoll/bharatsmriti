@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Cave Paintings (Rock Art)",
+    "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-03-22/a8dd5c97-2306-4210-a3eb-a9c581da2a08.jpeg",
+    "description": {
+        "first":"Oldest form (Prehistoric to early historic period)",
+        "second":"Painted on rock walls using natural colors",
+        "third":"Themes: hunting, animals, daily life, rituals",
+        "fourth":"Famous sites: Bhimbetka (MP), Ajanta & Ellora (Maharashtra)"
+    }
+  },
+   {
+    "id": 2,
+    "name": "Mural Paintings",
+    "url": "https://i.etsystatic.com/28013980/r/il/5b232f/6469017451/il_fullxfull.6469017451_nmbq.jpg?utm_source=chatgpt.com",
+    "description": {
+        "first":"Large paintings on walls and ceilings",
+        "second":"Mostly religious & mythological",
+        "third":"Used natural pigments on wet plaster",
+        "fourth":"Examples: Ajanta murals, Kerala temples"
+    }
+  },
+   {
+    "id": 3,
+    "name": "Miniature Paintings",
+    "url": "https://www.meisterdrucke.us/kunstwerke/1260px/Indian_School_-_Two_servant_girls_serve_refreshment_to_a_noble_man_in_a_richly_decorated_room_Ra_-_%28MeisterDrucke-623531%29.jpg?utm_source=chatgpt.com",
+    "description": {
+        "first":"Small-sized, highly detailed paintings",
+        "second":"Painted on paper, palm leaves, cloth",
+        "third":"Court life, epics, romance, nature",
+        "fourth":"Schools:Mughal, Rajasthani, Pahari, Deccan"
+    }
+  },
+   {
+    "id": 4,
+    "name": "Folk Paintings (Regional Traditions)",
+    "url": "https://www.madhubani-art.in/wp-content/uploads/2025/05/1.png?utm_source=chatgpt.com",
+    "description": {
+        "first":"Practiced by local communities",
+        "second":"Ritualistic & storytelling purpose",
+        "third":"Bold colors, symbolic forms",
+        "fourth":"Major types:Madhubani (Bihar), Warli (Maharashtra) ,Pattachitra (Odisha) ,Gond (MP) ,Kalighat (Bengal)"
+    }
+  },
+   {
+    "id": 5,
+    "name": "Manuscript Paintings",
+    "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/37788/149683/main-image?utm_source=chatgpt.com",
+    "description": {
+        "first":"Painted illustrations in handwritten texts",
+        "second":"Mostly religious scriptures",
+        "third":"Done on palm leaves or handmade paper",
+        "fourth":"Common in Jain, Buddhist, Hindu texts"
+    }
+  },
+   {
+    "id": 6,
+    "name": "Decorative & Ritual Paintings",
+    "url": "https://i.etsystatic.com/21622469/r/il/31ff34/6388622791/il_570xN.6388622791_6joh.jpg?utm_source=chatgpt.com",
+    "description": {
+        "first":"Temporary paintings made during festivals",
+        "second":"Drawn on floors & walls",
+        "third":"Examples: Rangoli, Alpana, Kolam",
+        "fourth":"Traditional auspicious designs"
+    }
+  }
+]

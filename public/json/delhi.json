@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Red Fort (Lal Qila)",
+    "url": "https://images.pexels.com/photos/29005685/pexels-photo-29005685.jpeg",
+    "place": "Old Delhi, Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Qutub Minar",
+    "url": "https://images.pexels.com/photos/13585045/pexels-photo-13585045.jpeg",
+    "place": "Mehrauli, South Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Humayun’s Tomb",
+    "url": "https://images.pexels.com/photos/13753576/pexels-photo-13753576.jpeg",
+    "place": "Nizamuddin East, Delhi"
+  },
+  {
+    "id": 4,
+    "name": "India Gate",
+    "url": "https://images.pexels.com/photos/13819269/pexels-photo-13819269.jpeg",
+    "place": "Rajpath, New Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Lotus Temple",
+    "url": "https://images.pexels.com/photos/35101659/pexels-photo-35101659.jpeg",
+    "place": "Kalkaji, South Delhi"
+  },
+  {
+    "id": 6,
+    "name": "Jama Masjid",
+    "url": "https://images.pexels.com/photos/3163677/pexels-photo-3163677.jpeg",
+    "place": "Chandni Chowk, Old Delhi"
+  },
+  {
+    "id": 7,
+    "name": "Rashtrapati Bhavan",
+    "url": "https://images.pexels.com/photos/19883686/pexels-photo-19883686.jpeg",
+    "place": "New Delhi"
+  },
+  {
+    "id": 8,
+    "name": "Purana Qila",
+    "url": "https://images.pexels.com/photos/29228895/pexels-photo-29228895.jpeg",
+    "place": "Near Pragati Maidan, Delhi"
+  },
+  {
+    "id": 9,
+    "name": "Safdarjung Tomb",
+    "url": "https://images.pexels.com/photos/2792601/pexels-photo-2792601.jpeg",
+    "place": "Safdarjung, New Delhi"
+  },
+  {
+    "id": 10,
+    "name": "Agrasen ki Baoli",
+    "url": "https://images.pexels.com/photos/33691962/pexels-photo-33691962.jpeg",
+    "place": "Connaught Place, New Delhi"
+  }
+]

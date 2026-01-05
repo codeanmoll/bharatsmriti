@@ -1,0 +1,277 @@
+[
+  {
+    "id": 1,
+    "name": "Punjabi Culture",
+    "url": "https://www.utsavpedia.com/wp-content/uploads/2016/01/bhangra-dance.jpg?utm_source=chatgpt.com",
+    "Discription": {
+      "first": "Punjabi culture is known for its energy and celebrations.",
+      "second": "Bhangra and Gidda are popular dance forms.",
+      "third": "Food like lassi and makki di roti is famous.",
+      "fourth": "Festivals like Baisakhi are celebrated joyfully."
+    }
+  },
+  {
+    "id": 2,
+    "name": "Rajasthani Culture",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Ghoomar_dancers_%28Rajasthan%2C_India%2C_2023%29.jpg/1200px-Ghoomar_dancers_%28Rajasthan%2C_India%2C_2023%29.jpg?utm_source=chatgpt.com",
+    "Discription": {
+      "first": "Rajasthani culture reflects royalty and bravery.",
+      "second": "Forts and palaces define its heritage.",
+      "third": "Ghoomar and Kalbelia are famous dances.",
+      "fourth": "Bright colors dominate traditional clothing."
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bengali Culture",
+    "url": "https://gopaldharaindia.com/wp-content/uploads/2023/10/Durga-Pija-1.jpg?utm_source=chatgpt.com",
+    "Discription": {
+      "first": "Bengali culture is rich in art and literature.",
+      "second": "Durga Puja is the biggest festival.",
+      "third": "Music and poetry are culturally important.",
+      "fourth": "Rice and fish are staple foods."
+    }
+  },
+  {
+    "id": 4,
+    "name": "Tamil Culture",
+    "url": "https://i.pinimg.com/736x/5a/b0/2e/5ab02e944145edfe48dc691421125243.jpg",
+    "Discription": {
+      "first": "Tamil culture is one of the oldest in the world.",
+      "second": "Temples and classical traditions are prominent.",
+      "third": "Bharatanatyam is a major dance form.",
+      "fourth": "Tamil language has ancient roots."
+    }
+  },
+  {
+    "id": 5,
+    "name": "Gujarati Culture",
+    "url": "https://i.pinimg.com/736x/87/fd/17/87fd172e8b74df0c4260a432b1c511f9.jpg",
+    "Discription": {
+      "first": "Gujarati culture is vibrant and community-driven.",
+      "second": "Garba and Dandiya are popular dances.",
+      "third": "Business and trade are cultural strengths.",
+      "fourth": "Cuisine is mostly vegetarian."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Marathi Culture",
+    "url": "https://img.etimg.com/thumb/width-1200%2Cheight-900%2Cimgsize-103368%2Cresizemode-75%2Cmsid-94577540/magazines/panache/bodhon-sandhi-puja-dhunuchi-nach-are-some-durga-puja-rituals-bengalis-adhere-to-a-tee-to-this-day.jpg?utm_source=chatgpt.com",
+    "Discription": {
+      "first": "Marathi culture combines valor and devotion.",
+      "second": "Ganesh Chaturthi is widely celebrated.",
+      "third": "Shivaji Maharaj is a cultural icon.",
+      "fourth": "Lavani is a famous folk dance."
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kashmiri Culture",
+    "url": "https://i.pinimg.com/736x/42/5a/e4/425ae407bec34aad9a2a1ac178b74b36.jpg",
+    "Discription": {
+      "first": "Kashmiri culture is shaped by nature.",
+      "second": "Handicrafts like shawls are famous.",
+      "third": "Sufi music influences traditions.",
+      "fourth": "Hospitality is a key trait."
+    }
+  },
+  {
+    "id": 8,
+    "name": "Assamese Culture",
+    "url": "https://i.pinimg.com/736x/5f/f9/e6/5ff9e63db0f9e1cabfb860f32a7c32a0.jpg",
+    "Discription": {
+      "first": "Assamese culture is connected to agriculture.",
+      "second": "Bihu is the main festival.",
+      "third": "Muga silk is unique to Assam.",
+      "fourth": "Tea gardens are iconic."
+    }
+  },
+  {
+    "id": 9,
+    "name": "Malayali Culture",
+    "url": "https://i.pinimg.com/1200x/ac/f6/71/acf6716ddc163278eb2451abab8d1089.jpg",
+    "Discription": {
+      "first": "Malayali culture values balance and discipline.",
+      "second": "Kathakali is a classical art form.",
+      "third": "Ayurveda has deep roots here.",
+      "fourth": "Onam is widely celebrated."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Odia Culture",
+    "url": "https://i.pinimg.com/736x/c5/8f/78/c58f78e04dac3b2ba71003e14c9113e3.jpg",
+    "Discription": {
+      "first": "Odia culture blends devotion and art.",
+      "second": "Jagannath Temple is central.",
+      "third": "Odissi is a classical dance.",
+      "fourth": "Traditional crafts are preserved."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Vedic Culture",
+    "url": "https://i.pinimg.com/736x/e8/39/d0/e839d0309270e4e18619363177bf7ac7.jpg",
+    "Discription": {
+      "first": "Vedic culture forms the foundation of India.",
+      "second": "It focuses on rituals and philosophy.",
+      "third": "The Vedas guide spiritual thought.",
+      "fourth": "Knowledge is highly valued."
+    }
+  },
+  {
+    "id": 12,
+    "name": "Buddhist Culture",
+    "url": "https://i.pinimg.com/1200x/01/ad/b2/01adb2a2b6f4c4d479a75588dc7ebf8a.jpg",
+    "Discription": {
+      "first": "Buddhist culture promotes peace.",
+      "second": "Founded by Gautama Buddha.",
+      "third": "Meditation is a core practice.",
+      "fourth": "Monasteries symbolize the culture."
+    }
+  },
+  {
+    "id": 13,
+    "name": "Jain Culture",
+    "url": "https://i.pinimg.com/736x/7f/be/a8/7fbea8e386b9341febd9506cdfc13b7b.jpg",
+    "Discription": {
+      "first": "Jain culture is based on non-violence.",
+      "second": "Simplicity and discipline are key.",
+      "third": "Jain temples are architectural marvels.",
+      "fourth": "Minimalism defines lifestyle."
+    }
+  },
+  {
+    "id": 14,
+    "name": "Sikh Culture",
+    "url": "https://i.pinimg.com/736x/60/0a/b5/600ab5d243d44a0e6beff38c234f6c8d.jpg",
+    "Discription": {
+      "first": "Sikh culture values service.",
+      "second": "Langar promotes equality.",
+      "third": "Golden Temple is sacred.",
+      "fourth": "Courage defines identity."
+    }
+  },
+  {
+    "id": 15,
+    "name": "Mughal Culture",
+    "url": "https://i.pinimg.com/1200x/2f/64/fc/2f64fce5ace3f7c2b85600d1be73bc25.jpg",
+    "Discription": {
+      "first": "Mughal culture enriched Indian heritage.",
+      "second": "Architecture like Taj Mahal is iconic.",
+      "third": "Urdu language flourished.",
+      "fourth": "Mughlai cuisine became famous."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Gond Tribal Culture",
+    "url": "https://i.pinimg.com/736x/4e/60/c8/4e60c8dbb9c7d42ed0122f10ebb7d852.jpg",
+    "Discription": {
+      "first": "Gond culture is nature-based.",
+      "second": "Art depicts animals and stories.",
+      "third": "Found in central India.",
+      "fourth": "Forest life shapes traditions."
+    }
+  },
+  {
+    "id": 17,
+    "name": "Naga Tribal Culture",
+    "url": "https://i.pinimg.com/1200x/cc/ac/04/ccac043bbb5b877df6f280460055df01.jpg",
+    "Discription": {
+      "first": "Naga culture is distinct and vibrant.",
+      "second": "Traditional attire is unique.",
+      "third": "Hornbill Festival is famous.",
+      "fourth": "Community unity is strong."
+    }
+  },
+  {
+    "id": 18,
+    "name": "Santhal Culture",
+    "url": "https://i.pinimg.com/736x/2b/a0/0c/2ba00cbf04bb45e07f06be3876b24a15.jpg",
+    "Discription": {
+      "first": "Santhal culture values music.",
+      "second": "Nature worship is important.",
+      "third": "Group dances are common.",
+      "fourth": "Found in eastern India."
+    }
+  },
+  {
+    "id": 19,
+    "name": "Warli Culture",
+    "url": "https://i.pinimg.com/1200x/4a/43/0c/4a430ca78645e0fbaf413965c6a8d339.jpg",
+    "Discription": {
+      "first": "Warli culture is known for art.",
+      "second": "Paintings use simple shapes.",
+      "third": "Daily life is the theme.",
+      "fourth": "Originated in Maharashtra."
+    }
+  },
+  {
+    "id": 20,
+    "name": "Chhau Culture",
+    "url": "https://i.pinimg.com/736x/ae/75/7e/ae757ef2af72fbd5a402a651b3619002.jpg",
+    "Discription": {
+      "first": "Chhau is a martial dance form.",
+      "second": "Strong movements are used.",
+      "third": "Mythological stories are performed.",
+      "fourth": "Popular in eastern India."
+    }
+  },
+  {
+    "id": 21,
+    "name": "Hyderabadi Culture",
+    "url": "https://i.pinimg.com/736x/b0/62/01/b0620169c8d00dfe7dca7220b6973156.jpg",
+    "Discription": {
+      "first": "Hyderabadi culture reflects Deccan history.",
+      "second": "Biryani is world famous.",
+      "third": "Urdu influences traditions.",
+      "fourth": "Nawabi style defines life."
+    }
+  },
+  {
+    "id": 22,
+    "name": "Awadhi Culture",
+    "url": "https://i.pinimg.com/736x/4b/1e/34/4b1e34fd34dc508690c21e8dce33597f.jpg",
+    "Discription": {
+      "first": "Awadhi culture values elegance.",
+      "second": "Lucknow is its center.",
+      "third": "Poetry and music flourish.",
+      "fourth": "Hospitality is a virtue."
+    }
+  },
+  {
+    "id": 23,
+    "name": "Delhi Culture",
+    "url": "https://i.pinimg.com/1200x/61/55/73/615573ee11de4cfcbc84095c12ae8246.jpg",
+    "Discription": {
+      "first": "Delhi culture blends old and new.",
+      "second": "Monuments show deep history.",
+      "third": "Street food is diverse.",
+      "fourth": "Multiple cultures coexist."
+    }
+  },
+  {
+    "id": 24,
+    "name": "Goan Culture",
+    "url": "https://i.pinimg.com/1200x/2e/05/9f/2e059fe522027f16016c1a980eeb6e20.jpg",
+    "Discription": {
+      "first": "Goan culture has Portuguese influence.",
+      "second": "Churches and beaches are iconic.",
+      "third": "Seafood is popular.",
+      "fourth": "Festivals are colorful."
+    }
+  },
+  {
+    "id": 25,
+    "name": "Himachali Culture",
+    "url": "https://i.pinimg.com/736x/70/e3/45/70e345cb204dd3ac44113c446b4c9fe3.jpg",
+    "Discription": {
+      "first": "Himachali culture is mountain-based.",
+      "second": "Woolen clothing is common.",
+      "third": "Local deities are worshipped.",
+      "fourth": "Life is simple and peaceful."
+    }
+  }
+]

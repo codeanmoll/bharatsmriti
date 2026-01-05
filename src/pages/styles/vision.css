@@ -1,0 +1,43 @@
+.vision {
+    position: fixed;
+    right: 0;
+    top: 40px;
+    width: calc(100vw - 350px);
+    /* background-color: #000; */
+    height: 100vh;
+    overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+}
+
+.vision .item {
+    width: calc(100% - 100px);
+    height: calc(100% - 120px);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 80px;
+    border-radius: 12px;
+    display: flex;
+    align-items: flex-end;
+     scroll-snap-align: center;
+}
+
+.vision .item div {
+    display: grid;
+    margin-bottom: 12px;
+}
+
+.vision .item span {
+    margin: 2px;
+    color: #FFF;
+    margin-left: 12px;
+
+
+}
+
+.vision .item span:nth-child(1) {
+    margin-left: 12px;
+    font-size: 42px;
+    font-weight: 600;
+}

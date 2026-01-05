@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Great Wall of China",
+    "url": "https://static.toiimg.com/thumb/107587871/great-wall-of-china.jpg?width=1200&height=900",
+    "place": "Northern China"
+  },
+  {
+    "id": 2,
+    "name": "Petra",
+    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/0f/97/11/petra-beautiful-place.jpg?w=900&h=-1&s=1",
+    "place": "Ma'an Governorate, Jordan"
+  },
+  {
+    "id": 3,
+    "name": "Colosseum",
+    "url": "https://cdn.mos.cms.futurecdn.net/BiNbcY5fXy9Lra47jqHKGK.jpg",
+    "place": "Rome, Italy"
+  },
+  {
+    "id": 4,
+    "name": "Machu Picchu",
+    "url": "https://res.cloudinary.com/aenetworks/image/upload/c_fill,ar_2,w_3840,h_1920,g_auto/dpr_auto/f_auto/q_auto:eco/v1/474461454_ei0ipy?_a=BAVAZGID0",
+    "place": "Cusco Region, Peru"
+  },
+  {
+    "id": 5,
+    "name": "Chichén Itzá",
+    "url": "https://i.natgeofe.com/n/bc4a1a44-9397-4f89-a3e2-662bd2603af2/28011.jpg",
+    "place": "Yucatán, Mexico"
+  },
+  {
+    "id": 6,
+    "name": "Christ the Redeemer",
+    "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBJl_7C9Y9HGxSK0nB6IIPvfOitBFlSmk0lakz3lPcNOOGigceou2xd18IYDJ9bLu1iZAj6tVD6B4cDGQEEZw6kcYdDM9ZRb0eO7HP7alMjwXzaRTnAxt8PisgKTgY1k9vn8oPi9QFdfMVnAUAkNkQtVaOYjnIryQzY0A7CKtAAPaSMAJaxTpJw7zR/s1122/IMG_20230215_174925.jpg",
+    "place": "Rio de Janeiro, Brazil"
+  },
+  {
+    "id": 7,
+    "name": "Angkor Wat",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1200px-Angkor_Wat.jpg",
+    "place": "Siem Reap, Cambodia"
+  },
+  {
+    "id": 8,
+    "name": "Taj Mahal",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg",
+    "place": "Agra, Uttar Pradesh, India"
+  },
+  {
+    "id": 9,
+    "name": "Eiffel Tower",
+    "url": "https://media.architecturaldigest.com/photos/66a951edce728792a48166e6/3:2/w_7950,h_5300,c_limit/GettyImages-955441104.jpg",
+    "place": "Paris, France"
+  },
+  {
+    "id": 10,
+    "name": "Statue of Liberty",
+    "url": "https://i.natgeofe.com/k/611a7aa1-57b3-4884-a2f6-2e0857c02257/united-states-statue-of-liberty-vertical.jpg",
+    "place": "New York City, USA"
+  }
+]

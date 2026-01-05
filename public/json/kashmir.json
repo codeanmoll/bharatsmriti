@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Dal Lake",
+    "url": "https://backpackersunited.in/_next/image?url=https%3A%2F%2Fbpu-images-v1.s3.eu-north-1.amazonaws.com%2Fuploads%2F1719832501347_Dal%20Lake.jpg&w=3840&q=75",
+    "place": "Srinagar, Jammu and Kashmir"
+  },
+  {
+    "id": 2,
+    "name": "Gulmarg",
+    "url": "https://wallpaperaccess.com/full/9470523.jpg",
+    "place": "Baramulla District, Jammu and Kashmir"
+  },
+  {
+    "id": 3,
+    "name": "Pahalgam",
+    "url": "https://kashmirlife.net/wp-content/uploads/2023/06/BVP1.jpg",
+    "place": "Anantnag District, Jammu and Kashmir"
+  },
+  {
+    "id": 4,
+    "name": "Sonamarg",
+    "url": "https://countrysidekashmir.com/img/Sonmarg.jpg",
+    "place": "Ganderbal District, Jammu and Kashmir"
+  },
+  {
+    "id": 5,
+    "name": "Mughal Gardens",
+    "url": "https://www.sahapedia.org/sites/default/files/styles/sp_inline_images/public/inline-images/The%20formal%20gardens%20today_PHOTO%20CREDIT%20-%20Narendra%20Bisht%20courtesy%20Sahapedia%28dot%29org.jpg?itok=eD83HWgY",
+    "place": "Srinagar, Jammu and Kashmir"
+  },
+  {
+    "id": 6,
+    "name": "Shankaracharya Temple",
+    "url": "https://alchetron.com/cdn/shankaracharya-temple-a683f0e6-2fbc-466f-8265-8afac92955f-resize-750.jpg",
+    "place": "Srinagar, Jammu and Kashmir"
+  },
+  {
+    "id": 7,
+    "name": "Betaab Valley",
+    "url": "https://kashmirlife.net/wp-content/uploads/2023/06/BVP1.jpg",
+    "place": "Near Pahalgam, Anantnag, Jammu and Kashmir"
+  },
+  {
+    "id": 8,
+    "name": "Aru Valley",
+    "url": "https://peopleplaces.in/wp-content/uploads/2023/04/Trekking.jpg",
+    "place": "Anantnag District, Jammu and Kashmir"
+  },
+  {
+    "id": 9,
+    "name": "Wular Lake",
+    "url": "https://theindiaexplorer.com/wp-content/uploads/2023/02/Wular-Lake2-1024x591.jpg",
+    "place": "Bandipora District, Jammu and Kashmir"
+  },
+  {
+    "id": 10,
+    "name": "Yusmarg",
+    "url": "https://theroamingshoes.com/wp-content/uploads/2023/08/DSC_0536-2-1320x880.jpg",
+    "place": "Budgam District, Jammu and Kashmir"
+  }
+]

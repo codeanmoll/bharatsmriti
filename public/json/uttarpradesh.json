@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Taj Mahal",
+    "url": "https://images.pexels.com/photos/28762052/pexels-photo-28762052.jpeg",
+    "place": "Agra, Uttar Pradesh, India"
+  },
+  {
+    "id": 2,
+    "name": "Agra Fort",
+    "url": "https://images.pexels.com/photos/1022698/pexels-photo-1022698.jpeg?_gl=1*n0tkg*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDk0MDQkbzckZzEkdDE3NjYxMTEyMTUkajU5JGwwJGgw",
+    "place": "Agra, Uttar Pradesh, India"
+  },
+  {
+    "id": 3,
+    "name": "Fatehpur Sikri",
+    "url": "https://images.pexels.com/photos/6176676/pexels-photo-6176676.jpeg?_gl=1*1urqh8p*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDk0MDQkbzckZzEkdDE3NjYxMTE2NDAkajU5JGwwJGgw",
+    "place": "Fatehpur Sikri, Uttar Pradesh, India"
+  },
+  {
+    "id": 4,
+    "name": "Bara Imambara",
+    "url": "https://lakshmisharath.com/wp-content/uploads/2024/01/Lucknow-Bara-Imambara-facade-1024x678.jpg",
+    "place": "Lucknow, Uttar Pradesh, India"
+  },
+  {
+    "id": 5,
+    "name": "Chota Imambara",
+    "url": "https://lakshmisharath.com/wp-content/uploads/2024/01/Lucknow-Bada-Imambara-arch-678x1024.jpg",
+    "place": "Lucknow, Uttar Pradesh, India"
+  },
+  {
+    "id": 6,
+    "name": "Rumi Darwaza",
+    "url": "https://images.pexels.com/photos/33798560/pexels-photo-33798560.jpeg?_gl=1*1bf4z6m*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDk0MDQkbzckZzEkdDE3NjYxMTE0MTYkajU5JGwwJGgw",
+    "place": "Lucknow, Uttar Pradesh, India"
+  },
+  {
+    "id": 7,
+    "name": "Jhansi Fort",
+    "url": "https://s7ap1.scene7.com/is/image/incredibleindia/jhansi-fort-jhansi-uttar-pradesh-4-attr-hero?qlt=82&ts=1726648951647",
+    "place": "Jhansi, Uttar Pradesh, India"
+  },
+  {
+    "id": 8,
+    "name": "Sarnath",
+    "url": "https://images.pexels.com/photos/32814738/pexels-photo-32814738.jpeg?_gl=1*1nduoce*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDk0MDQkbzckZzEkdDE3NjYxMTE3NzEkajUxJGwwJGgw",
+    "place": "Varanasi, Uttar Pradesh, India"
+  },
+  {
+    "id": 9,
+    "name": "Kashi Vishwanath Temple",
+    "url": "https://images.pexels.com/photos/34948573/pexels-photo-34948573.jpeg?_gl=1*lq3dw4*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDk0MDQkbzckZzEkdDE3NjYxMTE4MjYkajU5JGwwJGgw",
+    "place": "Varanasi, Uttar Pradesh, India"
+  },
+  {
+    "id": 10,
+    "name": "Ayodhya Ram Mandir",
+    "url": "https://th.bing.com/th/id/R.c7ffabd91c8a54e11d71714fc231d339?rik=m9ZQ9AixCnu%2fEA&riu=http%3a%2f%2fwww.tusktravel.com%2fblog%2fwp-content%2fuploads%2f2024%2f01%2fAyodhya-Ram-Mandir-inauguration-photo.webp&ehk=tdKp721GXFKc7VzcBZmf1eUeH1KHjrMRRLoAj4pL9BI%3d&risl=&pid=ImgRaw&r=0",
+    "place": "Ayodhya, Uttar Pradesh, India"
+  }
+]

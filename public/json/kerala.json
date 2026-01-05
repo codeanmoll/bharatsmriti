@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Munnar Hills",
+    "url": "https://th.bing.com/th/id/R.65aaaf6fae2c276c492dcc142c97e125?rik=ZzlyZRNxETaVsQ&riu=http%3a%2f%2f1.bp.blogspot.com%2f-69RccHbImvE%2fTabz3f6LzpI%2fAAAAAAAAA9E%2fAe1pWkwyuyo%2fs1600%2fMunnar_Hill_Station.JPG&ehk=%2fyXsWK7z9iBbrMbfOEHqmShzbI1xE3grQXBI2Ubp2FE%3d&risl=&pid=ImgRaw&r=0",
+    "place": "Idukki District, Kerala"
+  },
+  {
+    "id": 2,
+    "name": "Alappuzha Backwaters",
+    "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/fa/77/05/alleppey-backwaters-vibe.jpg?w=1200&h=-1&s=1",
+    "place": "Alappuzha, Kerala"
+  },
+  {
+    "id": 3,
+    "name": "Varkala Cliff",
+    "url": "https://www.farepayer.com/wp-content/uploads/2025/08/WhatsApp-Image-2025-08-13-at-15.53.01.jpeg",
+    "place": "Varkala, Thiruvananthapuram, Kerala"
+  },
+  {
+    "id": 4,
+    "name": "Wayanad Wildlife Sanctuary",
+    "url": "https://www.keralatourism.org/ktadmin/img/pages/tablet/wayanad-wildlife-sanctuary-1724145381_8a0518a3a0687e9820e1.webp",
+    "place": "Wayanad District, Kerala"
+  },
+  {
+    "id": 5,
+    "name": "Athirappilly Waterfalls",
+    "url": "https://irisholidays.com/keralatourism/wp-content/uploads/2019/01/Athirapally-Falls.jpg",
+    "place": "Thrissur District, Kerala"
+  },
+  {
+    "id": 6,
+    "name": "Sabarimala Temple",
+    "url": "https://www.keralatourism.org/images/sabarimala/sabarimala-share-image.jpg",
+    "place": "Pathanamthitta District, Kerala"
+  },
+  {
+    "id": 7,
+    "name": "Padmanabhaswamy Temple",
+    "url": "https://cdn.britannica.com/82/263282-050-D90D37DF/Hinduism-People-visiting-the-Sree-Padmanabhaswamy-Temple-in-Thiruvananthapuram-Trivandrum-Kerala-India-on-April-12-2024.jpg",
+    "place": "Thiruvananthapuram, Kerala"
+  },
+  {
+    "id": 8,
+    "name": "Fort Kochi",
+    "url": "https://www.thehosteller.com/_next/image/?url=https:%2F%2Fstatic.thehosteller.com%2Ffort-kochi%2FDESTINATION%2Fimage-1725447368808.jpg&w=3840&q=75",
+    "place": "Kochi, Kerala"
+  },
+  {
+    "id": 9,
+    "name": "Silent Valley National Park",
+    "url": "https://roamingowls.com/wp-content/uploads/Silent-valley-national-park.jpg",
+    "place": "Palakkad District, Kerala"
+  },
+  {
+    "id": 10,
+    "name": "Vembanad Lake",
+    "url": "https://www.keralam.me/wp-content/uploads/2019/03/vembanad-lake-kumarakom.jpg",
+    "place": "Kottayam–Alappuzha Region, Kerala"
+  }
+]

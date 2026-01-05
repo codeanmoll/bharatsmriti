@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Amer Fort",
+    "url": "https://images.pexels.com/photos/33106473/pexels-photo-33106473.jpeg",
+    "place": "Amer, Jaipur, Rajasthan"
+  },
+  {
+    "id": 2,
+    "name": "Mehrangarh Fort",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mehrangarh_Fort_sanhita.jpg",
+    "place": "Jodhpur, Rajasthan"
+  },
+  {
+    "id": 3,
+    "name": "Jaisalmer Fort",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Jaisalmer_Fort.jpg/1280px-Jaisalmer_Fort.jpg",
+    "place": "Jaisalmer, Rajasthan"
+  },
+  {
+    "id": 4,
+    "name": "Chittorgarh Fort",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Chittorgarh_fort.JPG/1280px-Chittorgarh_fort.JPG",
+    "place": "Chittorgarh, Rajasthan"
+  },
+  {
+    "id": 5,
+    "name": "Kumbhalgarh Fort",
+    "url": "https://translate.google.com/website?sl=en&tl=hi&hl=hi&client=imgs&u=https://upload.wikimedia.org/wikipedia/commons/1/13/Kumbhalgarh_055.jpg",
+    "place": "Rajsamand, Rajasthan"
+  },
+  {
+    "id": 6,
+    "name": "Junagarh Fort",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/India_Bikaner_Junagarh_Fort.jpg",
+    "place": "Bikaner, Rajasthan"
+  },
+  {
+    "id": 7,
+    "name": "Ranthambore Fort",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Ranthambhore_Fort.jpg/960px-Ranthambhore_Fort.jpg",
+    "place": "Sawai Madhopur, Rajasthan"
+  },
+  {
+    "id": 8,
+    "name": "Gagron Fort",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Gagron_fort_2nd_view.jpg",
+    "place": "Jhalawar, Rajasthan"
+  },
+  {
+    "id": 9,
+    "name": "Taragarh Fort",
+    "url": "https://www.travel-rajasthan.com/images/experiance-in-rajsthan/forts-and-palaces/taragarh-fort-bundi-travel-rajasthan.jpg",
+    "place": "Ajmer, Rajasthan"
+  },
+  {
+    "id": 10,
+    "name": "Nahargarh Fort",
+    "url": "https://s7ap1.scene7.com/is/image/incredibleindia/nahargarh-fort-jaipur-rajasthan-2-attr-hero?qlt=82&ts=1742156098849",
+    "place": "Jaipur, Rajasthan"
+  }
+]

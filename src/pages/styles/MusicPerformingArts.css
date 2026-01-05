@@ -1,0 +1,8 @@
+.MusicPerformingArts section{
+    position: fixed;
+    top: 80px;
+    right: 0;
+    /* width: calc(100vw - 350px); */
+    height: 100vh;
+    /* background-color:#000; */
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Taj Mahal",
+    "url": "https://images.pexels.com/photos/28762052/pexels-photo-28762052.jpeg?_gl=1*cuxyga*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDU2MTAkbzYkZzEkdDE3NjYxMDU2MTckajUzJGwwJGgw",
+    "place": "Agra, Uttar Pradesh, India",
+    "linkUrl":"/explore/tajmahal"
+  },
+  {
+    "id": 2,
+    "name": "Lotus Temple",
+    "url": "https://images.pexels.com/photos/34610003/pexels-photo-34610003.jpeg?_gl=1*u40reg*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDU2MTAkbzYkZzEkdDE3NjYxMDY3MTkkajU4JGwwJGgw",
+    "place": "New Delhi, India"
+  },
+  {
+    "id": 3,
+    "name": "India Gate",
+    "url": "https://images.pexels.com/photos/789750/pexels-photo-789750.jpeg?_gl=1*ccpq64*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDU2MTAkbzYkZzEkdDE3NjYxMDY3NjQkajEzJGwwJGgw",
+    "place": "New Delhi, India"
+  },
+  {
+    "id": 4,
+    "name": "Red Fort",
+    "url": "https://images.pexels.com/photos/13487368/pexels-photo-13487368.jpeg?_gl=1*3685j1*_ga*MjQ4MzkzNDQ4LjE3NjE4MTkxMjI.*_ga_8JE65Q40S6*czE3NjYxMDU2MTAkbzYkZzEkdDE3NjYxMDY2MzckajU4JGwwJGgw",
+    "place": "Old Delhi, Delhi, India"
+  },
+  {
+    "id": 5,
+    "name": "Qutub Minar",
+    "url": "https://images.pexels.com/photos/13585045/pexels-photo-13585045.jpeg",
+    "place": "Delhi, India"
+  },
+  {
+    "id": 6,
+    "name": "Hampi",
+    "url": "https://images.pexels.com/photos/18331987/pexels-photo-18331987.jpeg",
+    "place": "Karnataka, India"
+  },
+  {
+    "id": 7,
+    "name": "Ajanta & Ellora Caves",
+    "url": "https://images.pexels.com/photos/35238919/pexels-photo-35238919.jpeg",
+    "place": "Maharashtra, India"
+  },
+  {
+    "id": 8,
+    "name": "Konark Sun Temple",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/1280px-Konarka_Temple.jpg",
+    "place": "Odish, India"
+  },
+  {
+    "id": 9,
+    "name": "Golden Temple",
+    "url": "https://images.pexels.com/photos/5499899/pexels-photo-5499899.jpeg",
+    "place": "Amritsar, Punjab, India"
+  },
+  {
+    "id": 10,
+    "name": "Mysore Palace",
+    "url": "https://images.pexels.com/photos/5480518/pexels-photo-5480518.jpeg",
+    "place": "Mysuru, Karnataka, India"
+  }
+]

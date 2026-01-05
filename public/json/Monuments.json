@@ -1,0 +1,263 @@
+{
+  "monuments": [
+    {
+      "id": 1,
+      "name": "Taj Mahal",
+      "alternateNames": ["Crown of the Palace", "Symbol of Eternal Love"],
+      "type": "Mausoleum",
+      "location": {
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "coordinates": {
+          "latitude": 27.1751,
+          "longitude": 78.0421
+        },
+        "river": {
+          "name": "Yamuna River",
+          "image": ""
+        }
+      },
+      "builtBy": {
+        "emperor": "Shah Jahan",
+        "dynasty": "Mughal Empire",
+        "for": "Mumtaz Mahal",
+        "reason": "Built in memory of his beloved wife Mumtaz Mahal."
+      }
+    },
+
+    {
+      "id": 2,
+      "name": "Qutub Minar",
+      "alternateNames": ["Qutb Minar", "Tower of Victory"],
+      "type": "Minaret",
+      "location": {
+        "area": "Mehrauli",
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "coordinates": {
+          "latitude": 28.5245,
+          "longitude": 77.1855
+        }
+      },
+      "architecture": {
+        "heightMeters": 72.5,
+        "storeys": 5,
+        "material": {
+          "primary": "Red Sandstone",
+          "secondary": "White Marble"
+        }
+      },
+      "complex": {
+        "nearbyStructures": [
+          "Quwwat-ul-Islam Mosque",
+          "Iron Pillar of Delhi",
+          "Alai Darwaza",
+          "Alai Minar"
+        ]
+      }
+    },
+
+    {
+      "id": 3,
+      "name": "Red Fort",
+      "alternateNames": ["Lal Qila"],
+      "type": "Fortified Palace",
+      "location": {
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India",
+        "river": "Yamuna River",
+        "coordinates": {
+          "latitude": 28.6562,
+          "longitude": 77.241
+        }
+      },
+      "builtBy": {
+        "emperor": "Shah Jahan",
+        "dynasty": "Mughal Empire"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 2007
+      }
+    },
+
+    {
+      "id": 4,
+      "name": "Agra Fort",
+      "alternateNames": ["Lal Qila Agra"],
+      "type": "Fort",
+      "location": {
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "country": "India",
+        "river": "Yamuna River"
+      },
+      "builtBy": {
+        "emperor": "Akbar",
+        "dynasty": "Mughal Empire"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1983
+      }
+    },
+
+    {
+      "id": 5,
+      "name": "Humayun's Tomb",
+      "type": "Mausoleum",
+      "location": {
+        "city": "Delhi",
+        "state": "Delhi",
+        "country": "India"
+      },
+      "builtBy": {
+        "commissionedBy": "Bega Begum",
+        "for": "Emperor Humayun"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1993
+      }
+    },
+
+    {
+      "id": 6,
+      "name": "Fatehpur Sikri",
+      "type": "Historic City",
+      "location": {
+        "city": "Fatehpur Sikri",
+        "state": "Uttar Pradesh",
+        "country": "India"
+      },
+      "builtBy": {
+        "emperor": "Akbar"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1986
+      }
+    },
+
+    {
+      "id": 7,
+      "name": "Ajanta Caves",
+      "type": "Rock-cut Caves",
+      "location": {
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1983
+      }
+    },
+
+    {
+      "id": 8,
+      "name": "Ellora Caves",
+      "type": "Rock-cut Caves",
+      "location": {
+        "state": "Maharashtra",
+        "country": "India"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1983
+      }
+    },
+
+    {
+      "id": 9,
+      "name": "Konark Sun Temple",
+      "type": "Temple",
+      "location": {
+        "state": "Odisha",
+        "country": "India"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1984
+      }
+    },
+
+    {
+      "id": 10,
+      "name": "Hampi Monuments",
+      "type": "Historic Site",
+      "location": {
+        "state": "Karnataka",
+        "country": "India"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1986
+      }
+    },
+
+    {
+      "id": 11,
+      "name": "Khajuraho Temples",
+      "type": "Temple Complex",
+      "location": {
+        "state": "Madhya Pradesh",
+        "country": "India"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1986
+      }
+    },
+
+    {
+      "id": 12,
+      "name": "Sanchi Stupa",
+      "type": "Buddhist Stupa",
+      "location": {
+        "state": "Madhya Pradesh",
+        "country": "India"
+      },
+      "historicalSignificance": {
+        "unescoWorldHeritageSite": true,
+        "unescoYear": 1989
+      }
+    },
+
+    {
+      "id": 13,
+      "name": "Gateway of India",
+      "type": "Monument",
+      "location": {
+        "city": "Mumbai",
+        "state": "Maharashtra",
+        "country": "India"
+      }
+    },
+
+    {
+      "id": 14,
+      "name": "India Gate",
+      "type": "War Memorial",
+      "location": {
+        "city": "New Delhi",
+        "state": "Delhi",
+        "country": "India"
+      }
+    },
+
+    {
+      "id": 15,
+      "name": "Golden Temple",
+      "alternateNames": ["Harmandir Sahib"],
+      "type": "Gurdwara",
+      "location": {
+        "city": "Amritsar",
+        "state": "Punjab",
+        "country": "India"
+      }
+    }
+  ]
+}

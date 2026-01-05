@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Golden Temple (Harmandir Sahib)",
+    "url": "https://www.shikhar.com/blog/wp-content/uploads/2017/08/Golden-Temple-3-1.jpg",
+    "place": "Amritsar, Punjab"
+  },
+  {
+    "id": 2,
+    "name": "Akal Takht",
+    "url": "https://th.bing.com/th/id/R.683f2150a407019f99dc9fd6d56fd017?rik=IWjKtoXaI22%2bEw&riu=http%3a%2f%2fdiscoversikhism.com%2fimages%2fgurdwara%2fsri_akal_takht%2fsri_akal_takht5.jpg&ehk=lrT%2bcYT9P8b2RpEc1wy%2flNoTogjcHCGBMMVP1rYBjOo%3d&risl=&pid=ImgRaw&r=0",
+    "place": "Amritsar, Punjab"
+  },
+  {
+    "id": 3,
+    "name": "Anandpur Sahib",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/1_Sri_Kesgarh_Takhat_Anandpur_Sahib_Khalsa_birthplace_Punjab_India.jpg/1200px-1_Sri_Kesgarh_Takhat_Anandpur_Sahib_Khalsa_birthplace_Punjab_India.jpg",
+    "place": "Rupnagar District, Punjab"
+  },
+  {
+    "id": 4,
+    "name": "Takht Sri Kesgarh Sahib",
+    "url": "https://c1.staticflickr.com/7/6009/6193545555_2f6fcbdd69_b.jpg",
+    "place": "Anandpur Sahib, Punjab"
+  },
+  {
+    "id": 5,
+    "name": "Takht Sri Damdama Sahib",
+    "url": "https://th.bing.com/th/id/R.7ece7fe696fd5e7656f4d0ffc4dfe40d?rik=tzpFyQJxREfX5Q&riu=http%3a%2f%2fwww.discoversikhism.com%2fimages%2fgurdwara%2ftakht_sri_damdama_sahib%2ftakht_sri_damdama_sahib11.jpg&ehk=mFKtkX5gUw9hY%2fiuLTR%2fNaE2xTrMHsbWhzaUMMerOjg%3d&risl=&pid=ImgRaw&r=0",
+    "place": "Talwandi Sabo, Bathinda, Punjab"
+  },
+  {
+    "id": 6,
+    "name": "Fatehgarh Sahib",
+    "url": "https://www.discoversikhism.com/images/gurdwara/gurdwara_sri_fatehgarh_sahib/gurdwara_sri_fatehgarh_sahib12.jpg",
+    "place": "Sirhind, Fatehgarh Sahib District, Punjab"
+  },
+  {
+    "id": 7,
+    "name": "Goindwal Sahib",
+    "url": "https://www.trawell.in/admin/images/upload/597529988Amritsar_Goindwal_Sahib_Main.jpg",
+    "place": "Tarn Taran District, Punjab"
+  },
+  {
+    "id": 8,
+    "name": "Durgiana Temple",
+    "url": "https://static.toiimg.com/photo/msid-50999017,width-96,height-65.cms",
+    "place": "Amritsar, Punjab"
+  },
+  {
+    "id": 9,
+    "name": "Jallianwala Bagh",
+    "url": "https://s7ap1.scene7.com/is/image/incredibleindia/jallianwala-bagh-amritsar-punjab-1-attr-hero?qlt=82&ts=1726662275638",
+    "place": "Amritsar, Punjab"
+  },
+  {
+    "id": 10,
+    "name": "Kartarpur Sahib",
+    "url": "https://i0.wp.com/theunstumbled.com/wp-content/uploads/2025/10/Kartarpur-Corridor-For-Gurpurab.jpg?fit=1200%2C700&ssl=1",
+    "place": "Narowal District, Punjab (Pakistan)"
+  }
+]

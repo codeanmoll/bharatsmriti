@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background: #f3f6f9;
+  padding: 50px;
+}
+
+.container1 .cards-section {
+  text-align: center;
+}
+
+.container1 .subtitle {
+  font-size: 14px;
+  color: #777;
+  margin-bottom: 5px;
+}
+
+.container1 .description {
+  font-size: 18px;
+  margin-bottom: 40px;
+}
+
+.container1 .cards-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+/* Card base */
+.container1 .card {
+  width: 280px;
+  border-radius: 18px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 15px 40px rgba(0,0,0,0.08);
+}
+
+/* Upper white section */
+.container1 .card-top {
+  background: #fff;
+  padding: 35px 25px;
+  border-radius: 18px;
+  transition: transform 0.35s ease;
+  position: relative;
+  z-index: 2;
+}
+
+/* SCALE EFFECT ON HOVER */
+.container1 .card:hover .card-top {
+  transform: scale(1.08);
+}
+
+.container1 .card-top h3 {
+  margin: 15px 0 10px;
+  font-size: 20px;
+}
+
+.container1 .card-top p {
+  font-size: 14px;
+  color: #666;
+  line-height: 1.5;
+}
+
+.container1 .icon {
+  font-size: 28px;
+}
+
+/* Bottom colored section */
+.container1 .card-bottom {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 0 0 18px 18px;
+}
+
+/* Color themes */
+.container1 .card.yellow .card-bottom {
+  background: #f4b740;
+}
+
+.container1 .card.blue .card-bottom {
+  background: #3b82f6;
+}
